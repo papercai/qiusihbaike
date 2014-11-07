@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3244F513-F106-4300-B355-B1D472F30D61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XWQiuShiBaiKe</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3FD34E42-FEFB-4410-88AA-3E10949947BF</key>
+		<string>https://github.com/xwren362922604/XWQiuShiBaiKe.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XWQiuShiBaiKe/XWQiuShiBaiKe.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3FD34E42-FEFB-4410-88AA-3E10949947BF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xwren362922604/XWQiuShiBaiKe.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3FD34E42-FEFB-4410-88AA-3E10949947BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3FD34E42-FEFB-4410-88AA-3E10949947BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XWQiuShiBaiKe</string>
+		</dict>
+	</array>
+</dict>
+</plist>
